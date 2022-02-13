@@ -1,7 +1,9 @@
 # TicTacToegamein-c
-TIC TAC TOE GAME IN C LANGUAGE
+I have learned my 1st programming language C in my first year of College and created a 1st project.
 
-ALGORITHM
+## TIC TAC TOE GAME IN C LANGUAGE
+
+### ALGORITHM
 Step 1. Start
 
 Step 2. Declare an array function to store the positions of a 3x3 grid.
